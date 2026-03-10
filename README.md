@@ -16,11 +16,10 @@ I use a modern suite of tools to build and deploy my projects:
 </a>
 </p>
 
-### 📊 GitHub Analytics
-Since the standard stats servers can sometimes be slow, I've included these reliable alternatives to showcase your activity:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-30&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=hamza-30&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
