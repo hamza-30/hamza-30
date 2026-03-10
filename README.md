@@ -19,7 +19,7 @@ I use a modern suite of tools to build and deploy my projects:
 ### 📊 GitHub Stats
 
 <p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=hamza-30&theme=dark)](https://git.io/streak-stats)
+   <img src="https://streak-stats.demolab.com/?user=hamza-30&theme=dark"/>
 </p>
 
 ---
