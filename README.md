@@ -23,10 +23,6 @@ Since the standard stats servers can sometimes be slow, I've included these reli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-30&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza-30&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 📫 How to reach me
