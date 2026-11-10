@@ -53,8 +53,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-30&theme=dark&hide_border=true&background=00000000" height="150" align="top" alt="Hamza's Streak Stats" />
-  <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="120" align="top" style="vertical-align: 22px;" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-30&theme=dark&hide_border=true&background=00000000" alt="Hamza's Streak Stats" />
+  <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
