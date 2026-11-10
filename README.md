@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎯 Target Trajectory: Evolving into an AI Engineer. Grounding my core skills in backend software development, expanding next into AWS cloud infrastructure, and building scalable, AI-driven applications.</p>
+<p data-importer="text" align="center">🎯 Target Trajectory: Evolving into an AI Engineer. Grounding my core skills in backend software development, expanding next into AWS cloud infrastructure, and building scalable, AI-driven applications.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
@@ -53,7 +53,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Profile%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-30&show_icons=true&theme=dark" alt="Hamza's GitHub Stats" />
   <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
