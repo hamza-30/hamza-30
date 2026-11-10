@@ -1,31 +1,64 @@
-## Hi there, I'm Muhammad Hamza! 👋
+<h1 data-importer="text" align="center">Hi! I'm Muhammad Hamza 👋</h1>
 
-I am a Computer Science undergraduate at the University of Karachi (UBIT). I am currently a front-end developer actively expanding my skill set to become a full-stack software engineer.
+###
 
----
+<p data-importer="text" align="center">Full-Stack Software Engineer with a heavy focus on backend architecture, resilient REST APIs, and real-time systems across the MERN stack (MongoDB, Express.js, React, Node.js). I engineer production-ready web applications built for scale and low latency, prioritizing clean API design, defensive database schemas, and rock-solid system reliability under load. Final-year Computer Science student at UBIT, University of Karachi (graduating December 2026), actively open to high-impact engineering roles and technical collaborations.</p>
 
-### 🔭 What I'm currently working on
-I am diving deep into **front-end development**, building dynamic and responsive user interfaces using modern frameworks, and integrating backend services to bring web applications to life.
+###
 
-### 🛠️ Tech Stack
-I use a modern suite of tools to build and deploy my projects:
+<p data-importer="text" align="left">🎯 Target Trajectory: Evolving into an AI Engineer. Grounding my core skills in backend software development, expanding next into AWS cloud infrastructure, and building scalable, AI-driven applications.</p>
 
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github&theme=dark" />
-</a>
-</p>
+###
 
-### 📊 GitHub Stats
+<h2 data-importer="text" align="left">I code with</h2>
 
-<p align="center">
-   <img src="https://streak-stats.demolab.com/?user=hamza-30&theme=dark"/>
-</p>
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="44" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="44" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo"  />
+</div>
 
-### 📫 How to reach me
-I am always open to discussing new projects, collaborative opportunities, or tech in general!
+###
 
-* 📧 **Email:** [hamzahs2004@gmail.com](mailto:hamzahs2004@gmail.com)
-* 💼 **LinkedIn:** Connect with me via the link on my GitHub sidebar.
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Profile%20Stats" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/hamza-30/hamza-30/snake-output/snake.svg" alt="Snake animation" />
+
+###
