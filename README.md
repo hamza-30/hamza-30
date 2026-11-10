@@ -59,6 +59,8 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/hamza-30/hamza-30/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/hamza-30/hamza-30/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
