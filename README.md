@@ -53,7 +53,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-30&show_icons=true&theme=dark" alt="Hamza's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-30&theme=dark" alt="Hamza's Streak Stats" />
   <img src="https://raw.githubusercontent.com/hamza-30/hamza-30/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
