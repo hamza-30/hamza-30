@@ -14,7 +14,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
